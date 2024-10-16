@@ -1,2 +1,2 @@
 # Generate_Anime_Face_DCGAN
-https://github.com/talahrauf2004/Generate_Anime_Face_DCGAN/blob/main/Data
+http://localhost:8889/notebooks/Generate_Anime_Faces_DCGAN.ipynb
